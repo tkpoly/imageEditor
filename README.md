@@ -43,9 +43,15 @@ DirectX coordinates and screen coordinates.
 - Shared header (device pointer repository)
 
 
-## Source Code
-The source files and solution are currently being prepared.
-They will be available later on Booth (paid).
+## Source Code (Paid)
+The full source code and Visual Studio solution are available on BOOTH.
+BOOTH:
+https://vcmfc.booth.pm/items/9014039
+
+## GitHub Version (Free)
+This GitHub repository provides the free trial version (exe only, no source code).
+
+
 
 
 
@@ -94,9 +100,11 @@ DirectX11のピクセルシェーダーとコンピュート・シェーダー�
 - 共有ヘッダー（Deviceポインタの貸出倉庫）
 
 
-## ソースコードについて
-ソースファイルおよびソリューションファイルは、 現在準備中です。
-後日、Boothにて入手可能となります（有料です）。
+## ソースコード（有料）
+ソースコードと Visual Studio ソリューションは BOOTH にて販売しています。
+BOOTH：
+https://vcmfc.booth.pm/items/9014039
 
-
+## GitHub版（無料）
+この GitHub リポジトリは、ソースコードなしの無料版（exeのみ）です。
 
